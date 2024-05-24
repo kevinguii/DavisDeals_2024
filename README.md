@@ -19,7 +19,7 @@ Davis Deals is a cross-platform application designed to help college students di
 - **User-Friendly Interface:** Intuitive and responsive UI/UX.
 
 ## Project Structure
-
+```
 DavisDeals_2024/
 ├── flutter_app/
 │ ├── lib/
@@ -33,7 +33,7 @@ DavisDeals_2024/
 ├── firebase.json
 ├── firestore.rules
 └── .gitignore
-
+```
 ## Technologies Used
 
 - **Frontend:** Flutter (Dart)
